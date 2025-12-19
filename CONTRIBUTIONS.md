@@ -5,7 +5,8 @@ This document tracks my open-source contributions, discussions, and learnings.
 ---
 
 ## JuliaLang/julia
-- Issue #XXXX — Clarified `@inferred` behavior with do-blocks — discussion
+- #59114 Issue discussion on `@inferred` + do-block behavior — analysis & proposal
+
 - PR #YYYY — (planned) Documentation clarification for `@inferred`
 
 ---
